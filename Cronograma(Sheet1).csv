@@ -1,0 +1,16 @@
+Objetivo General;Objetivos;Actividades;Fecha de cierre;Descripción del entregable;Enlace al entregable
+Desarrollar un sistema recomendador de música utilizando IA Generativa;Realizar un estado del arte sobre sistemas recomendadores y LLMs;Revisión de literatura y marco teórico;21-02-2025;Documento con revisión de conceptos sobre sistemas recomendadores y arquitecturas que integran LLMs y Agentes;
+;;Análisis de datasets  musicales existentes;28-02-2025;Informe técnico con descripción de datasets;
+;;Diseño del dataset ;07-03-2025;Informe técnico con la descripción del dataset;
+;Selección y evaluación de algoritmos de ML y LLM para la recomendación de música;Exploración de algoritmos ML;07-04-2025;Documento con revisión de conceptos sobre sistemas recomendadores y arquitecturas que integran LLMs y Agentes;
+;;Diseño e implementación de prototipos;21-04-2025;Guia práctica con la descripción de 2 alternativas;
+;;Evaluación de algoritmos;30-04-2025;Evaluación de las 2 alternativas con el dataset seleccionado;
+;Diseño y desarrollo de un modelo recomendador soportado en LLM;Diseño del modelo recomendador;21-04-2025;informe técnico con el diseño;
+;;Implementación del modelo recomendador;28-04-2025;Código desplegado con la solución ;
+;;Pruebas y ajustes del modelo;30-04-2025;Documento con descripción de pruebas funcionales ;
+;Validación externa del modelo recomendador implementado;Despliegue del modelo;14-05-2025;Informe técnico describiendo el despliegue;
+;;Validación con usuarios ;28-05-2025;Informe técnico con evaluación con usuarios;
+;;Documentación;30-05-2025;Documento final;
+;;;;;
+;;;;;
+;Deadline PDG 30/05/2024;;;;
